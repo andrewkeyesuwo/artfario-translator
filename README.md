@@ -1,0 +1,1 @@
+# artfario-translator
